@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-baidu-v3",
+  "description": "gitbook-v3百度统计插件",
+  "keywords": [
+    "gitbook",
+    "baidu",
+    "plugin"
+  ],
+  "author": "refined-x.com",
+  "main": "index.js",
+  "version": "0.0.3",
+  "engines": {
+    "gitbook": ">=2.5.1"
+  },
+  "homepage": "https://github.com/tower1229/gitbook-plugin-baidu-v3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tower1229/gitbook-plugin-baidu-v3"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/tower1229/gitbook-plugin-baidu-v3/issues"
+  }
+}
